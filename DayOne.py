@@ -1,6 +1,6 @@
 # contains duplicates:
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool:
+    def containsDuplicate(self, nums:
         # check if the array contains duplicates
         # if any value appears at least twice in the array
             # return true
